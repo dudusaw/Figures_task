@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures_task", "Figures_task.csproj", "{C9CC401B-8B21-47ED-BBA9-7A0A23CB4612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures_taskTests", "..\Figures_taskTests\Figures_taskTests.csproj", "{903B26FF-47B8-4F55-9CBA-F6997C8109B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9CC401B-8B21-47ED-BBA9-7A0A23CB4612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CC401B-8B21-47ED-BBA9-7A0A23CB4612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CC401B-8B21-47ED-BBA9-7A0A23CB4612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CC401B-8B21-47ED-BBA9-7A0A23CB4612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903B26FF-47B8-4F55-9CBA-F6997C8109B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903B26FF-47B8-4F55-9CBA-F6997C8109B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903B26FF-47B8-4F55-9CBA-F6997C8109B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903B26FF-47B8-4F55-9CBA-F6997C8109B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4528DE76-1971-4E16-B21E-3E9BD1514F2D}
+	EndGlobalSection
+EndGlobal
