@@ -1,3 +1,5 @@
+/* https://www.db-fiddle.com/f/d1RFFCxSmd2Qc87nys7Zc1/1 */
+
 create table IF NOT EXISTS category (
   id int,
   name varchar(20),
